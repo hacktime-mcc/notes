@@ -7,6 +7,9 @@
 ### Markdown
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
+### Test relative link
+- [temporary test file](deleteme.md)
+
 
 ### freeCodeCamp.org
 Pulling code from github
